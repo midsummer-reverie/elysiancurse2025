@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Mitr&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap);
+
+.c25ev-box {
+    margin: auto;
+    background-attachment: fixed;
+    background-blend-mode: screen;
+    max-width: 900px;
+    background: url(https://i.pinimg.com/originals/aa/b0/79/aab0793….gif) center / cover, url(https://iili.io/K23OZ0u.png) top / cover;
+    box-shadow: 0 0 30px 5px #0a0a0a;
+    border: 1px solid #111111;
+    border-image: linear-gradient(to top, rgba(100, 100, 100, 1), rgba(13, 13, 13, 1)) 1;
+}
+.c25ev-content {
+    margin: auto;
+    background: rgba(0, 0, 0, 0.8);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.c25ev-img {
+    margin: auto;
+    display: block;
+    max-width: 75%;
+    margin-top: -15px;
+
+}
+.c25ev-details {
+    margin: auto;
+    box-shadow: 0 0 50px 2px rgba(53, 50, 47, 0.5);
+    margin: -30px 50px 20px 50px;
+    border: 1px solid #111111;
+    border-image: linear-gradient(to top, rgba(100, 100, 100, 1), rgba(13, 13, 13, 1)) 1;
+}
+.c25ev-title {
+    margin: auto;
+    font-family: Bai Jamjuree;
+    padding: 7px;
+    font-size: 17pt;
+    background: linear-gradient(323deg, rgba(0, 0, 0, 1) 0%, rgba(65, 57, 48, 0.7) 37%, rgba(0, 0, 0, 1) 100%);
+    border-bottom: 1px solid #1b1b1b;
+    color: #f5ece1;
+    text-shadow: 0px 0px 5px #e5d7c7;
+    text-align: center;
+}
+.c25ev-subbox {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 25px;
+    font-family: 'Bai Jamjuree';
+    color: #f5ece1;
+    text-align: justify;
+}
+.c25ev-pic {
+    margin: auto;
+    max-width: 700px;
+    border: 1px solid #111111;
+    border-image: linear-gradient(to top, rgba(100, 100, 100, 0.5), rgba(13, 13, 13, 1)) 1;
+    border-radius: 5px;
+    height: 260px;
+    margin-bottom: 35px;
+    filter: sepia(60%) saturate(40%);
+    --webkit-filter: sepia(60%) saturate(40%)
+}
+.c25ev-desc {
+    margin: auto;
+    text-align: justify;
+    text-indent: 20px;
+    width: 95%;
+}
+.c25ev-note {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+.c25ev-obj {
+    margin: auto;
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Georgia;
+    font-style: italic;
+    text-shadow: 0 0 10px #fff3e5;
+    margin-top: 15px;
+    letter-spacing: 2px;
+}
+.c25ev-footer {
+    margin: auto;
+    text-align: center;
+}
