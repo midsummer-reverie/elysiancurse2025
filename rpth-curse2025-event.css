@@ -1,6 +1,5 @@
 @import url(https://fonts.googleapis.com/css2?family=Bai+Jamjuree&family=Mitr&display=swap);
 @import url(https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap);
-
 .c25ev-box {
     margin: auto;
     background-attachment: fixed;
@@ -87,4 +86,8 @@
 .c25ev-footer {
     margin: auto;
     text-align: center;
+}
+.c25ev-ftcontent {
+    margin: 10px 0px -20px 0px;
+    max-width: 80%;
 }
