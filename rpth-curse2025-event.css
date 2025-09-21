@@ -58,8 +58,8 @@
     border-radius: 5px;
     height: 260px;
     margin-bottom: 35px;
-    filter: sepia(60%) saturate(40%);
-    --webkit-filter: sepia(60%) saturate(40%)
+    filter: sepia(30%) saturate(70%);
+    --webkit-filter: sepia(30%) saturate(70%)
 }
 .c25ev-desc {
     margin: auto;
@@ -92,4 +92,5 @@
     max-width: 80%;
     margin: auto;
 }
+
 
