@@ -23,6 +23,7 @@
     display: block;
     max-width: 80%;
     margin-top: -5px;
+    text-align: center;
 }
 .c25ae-subbox {
     margin: auto;
@@ -54,4 +55,5 @@
     margin: auto;
     max-width: 50%;
     margin-top: 20px;
+
 }
